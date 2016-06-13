@@ -1,0 +1,14 @@
+layout_spectrum: 0.7079611630178988
+typography_spectrum: 0.3951524442527443
+color:
+  brandStrength: 0.5978424972854555
+  lightness: 0.15228875074535608
+  saturation: 0.8218368664383888
+  rhythmicContrast: 0.5127535311039537
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: MindfulMethod
